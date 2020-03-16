@@ -10,11 +10,11 @@
 
 * сайт https://natashta.github.io/demontage/index.html
 
-3. Пробный сайт-визитка на гридах
+3. Сайт инвестиционной компании
 
-* репозиторий https://github.com/natashta/grid-from-psd
+* репозиторий https://github.com/natashta/invest_hero/
 
-* сайт https://natashta.github.io/grid-from-psd/amaizing.html
+* сайт https://natashta.github.io/invest_hero/index.html
 
 4. Дипломная работа с курса Нетологии "Мобильная и адаптивная верстка" (адаптив, флексы)
 
