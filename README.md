@@ -18,9 +18,9 @@
 
 4. Дипломная работа с курса Нетологии "Мобильная и адаптивная верстка" (адаптив, флексы)
 
-* репозиторий https://github.com/natashta/dipom-MQ.github.io
+* репозиторий https://github.com/natashta/dipomMQ
 
-* сайт https://natashta.github.io/dipom-MQ.github.io/index.html
+* сайт https://natashta.github.io/dipomMQ/index.html
 
 5. Дипломная работа с курса Нетологии "Продвинутый джаваскрипт"
 
