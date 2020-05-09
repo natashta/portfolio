@@ -16,6 +16,8 @@
 
 * сайт https://natashta.github.io/invest_hero/index.html
 
+* живой сайт https://invest-heroes.ru/invest2020-webinar
+
 4. Дипломная работа с курса Нетологии "Мобильная и адаптивная верстка" (адаптив, флексы)
 
 * репозиторий https://github.com/natashta/dipomMQ
