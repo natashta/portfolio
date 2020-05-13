@@ -24,7 +24,13 @@
 
 * сайт https://natashta.github.io/dipomMQ/index.html
 
-5. Дипломная работа с курса Нетологии "Продвинутый джаваскрипт"
+5. Пример верстки секции карточек (верстка + джаваскрипт)
+
+* репозиторий https://github.com/natashta/fox-test
+
+* посмотреть в действии https://natashta.github.io/fox-test/
+
+6. Дипломная работа с курса Нетологии "Продвинутый джаваскрипт"
 
 * репозиторий https://github.com/natashta/ajs-diploma
 
