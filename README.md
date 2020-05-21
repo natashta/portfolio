@@ -1,16 +1,10 @@
-1. Лендинг автомобильной компании 
-
-* репозиторий https://github.com/natashta/test_sinoby
-
-* сайт https://natashta.github.io/test_sinoby/index.html
-
-2. Сайт строительной компании 
+1. Сайт строительной компании 
 
 * репозиторий https://github.com/natashta/demontage
 
 * сайт https://natashta.github.io/demontage/index.html
 
-3. Сайт инвестиционной компании
+2. Сайт инвестиционной компании
 
 * репозиторий https://github.com/natashta/invest_hero/
 
@@ -18,11 +12,17 @@
 
 * живой сайт https://invest-heroes.ru/invest2020-webinar
 
-4. Дипломная работа с курса Нетологии "Мобильная и адаптивная верстка" (адаптив, флексы)
+3. Дипломная работа с курса Нетологии "Мобильная и адаптивная верстка" (адаптив, флексы)
 
 * репозиторий https://github.com/natashta/dipomMQ
 
 * сайт https://natashta.github.io/dipomMQ/index.html
+
+4. Лендинг автомобильной компании 
+
+* репозиторий https://github.com/natashta/test_sinoby
+
+* сайт https://natashta.github.io/test_sinoby/index.html
 
 5. Пример верстки секции карточек (верстка + джаваскрипт)
 
