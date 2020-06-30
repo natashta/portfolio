@@ -24,13 +24,19 @@
 
 * сайт https://natashta.github.io/test_sinoby/index.html
 
-5. Пример верстки секции карточек (верстка + джаваскрипт)
+5. Страница для рекламной акции
+
+* репозиторий https://github.com/natashta/ruzik
+
+* сайт https://natashta.github.io/ruzik/
+
+6. Пример верстки секции карточек (верстка + джаваскрипт)
 
 * репозиторий https://github.com/natashta/fox-test
 
 * посмотреть в действии https://natashta.github.io/fox-test/
 
-6. Дипломная работа с курса Нетологии "Продвинутый джаваскрипт"
+7. Дипломная работа с курса Нетологии "Продвинутый джаваскрипт"
 
 * репозиторий https://github.com/natashta/ajs-diploma
 
