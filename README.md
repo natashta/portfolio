@@ -4,7 +4,7 @@
 
 * сайт https://natashta.github.io/demontage/index.html
 
-2. Сайт инвестиционной компании
+2. Лендинг инвестиционной компании
 
 * репозиторий https://github.com/natashta/invest_hero/
 
