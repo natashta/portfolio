@@ -30,6 +30,8 @@
 
 * сайт https://natashta.github.io/ruzik/
 
+* живой сайт http://ruzik.ru/promo/2020.html
+
 6. Пример верстки секции карточек (верстка + джаваскрипт)
 
 * репозиторий https://github.com/natashta/fox-test
