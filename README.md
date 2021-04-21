@@ -10,8 +10,6 @@
 
 * сайт https://natashta.github.io/invest_hero/index.html
 
-* живой сайт https://invest-heroes.ru/invest2020-webinar
-
 3. Страница для рекламной акции
 
 * репозиторий https://github.com/natashta/ruzik
