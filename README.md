@@ -16,8 +16,6 @@
 
   * сайт https://natashta.github.io/ruzik/
 
-  * живой сайт http://ruzik.ru/promo/2020.html
-
 4. Сайт для волонтерской организаниции, Вордпресс + Элементор
 
  * живой сайт https://catebi.ge/
